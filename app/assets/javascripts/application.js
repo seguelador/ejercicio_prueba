@@ -11,6 +11,8 @@
 // about supported directives.
 //
 //= require jquery
+//= require bootstrap.min
+//= require jquery.magnific-popup
 //= require jquery_ujs
 //= require turbolinks
-//= require_tree .
+//  require_tree .

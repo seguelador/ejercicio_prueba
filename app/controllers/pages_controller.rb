@@ -13,4 +13,8 @@ class PagesController < ApplicationController
   		@response = "Ocurrió un error al intentar guardar"  		
   	end
   end
+
+  def landing
+  	render layout: "layout2"
+  end
 end
